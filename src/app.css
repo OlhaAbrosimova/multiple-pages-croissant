@@ -1,0 +1,25 @@
+body {
+	background: rgb(209, 194, 165);
+}
+
+h1,
+p {
+	text-align: center;
+}
+
+.navigation-links {
+	display: flex;
+	justify-content: center;
+	margin: 40px;
+}
+
+.link {
+	margin: 0px 20px;
+	color: green;
+}
+
+.croissant {
+	display: block;
+	margin: 0 auto;
+	border-radius: 9px;
+}
